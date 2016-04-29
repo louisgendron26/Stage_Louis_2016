@@ -12,6 +12,7 @@ Cette répertoire git va servir de cahier de laboratoire pour le stage de Louis
 * [Intro sur les commandes de base de git.](https://rogerdudler.github.io/git-guide/)
 * [Github flow](https://guides.github.com/introduction/flow/)
 * [Comment écrire des bons messages de commit.](http://chris.beams.io/posts/git-commit/)
+* [Syntaxe markdown de github](https://help.github.com/categories/writing-on-github/)
 
 **Note**: Les commandes les plus importantes sont `init`, `add`, `commit`, `push` et `pull`.
 
