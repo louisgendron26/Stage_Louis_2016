@@ -35,7 +35,7 @@ Cette répertoire git va servir de cahier de laboratoire pour le stage de Louis
 ## Les *pull requests*
 
 Les pull request devront respecter les critères suivant:
-* **Le code doit être fonctionnel!*
+* **Le code doit être fonctionnel!**
  * `R CMD build`
  * `R CMD check`
  * `R CMD BiocCheck`
@@ -45,3 +45,4 @@ Les pull request devront respecter les critères suivant:
   fonctionnent comme prévu.
 * Le fichier `NEWS` doit être mis à jour.
 * La version du logiciel dans le fichier `DESCRIPTION` doit être incrémentée.
+* Le message du commit doit être clair et complet.
