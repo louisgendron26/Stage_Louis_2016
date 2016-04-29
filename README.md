@@ -38,9 +38,9 @@ Les pull request devront respecter les critères suivant:
 * **Le code doit être fonctionnel!*
  * `R CMD build`
  * `R CMD check`
- * `R CMD BiocCheck
-* La mise en forme du code doit respecter le [*coding style* de
-* Bioconductor](https://www.bioconductor.org/developers/how-to/coding-style/).
+ * `R CMD BiocCheck`
+* La mise en forme du code doit respecter le
+[*coding style* de Bioconductor](https://www.bioconductor.org/developers/how-to/coding-style/).
 * Les tests unitaires doivent être à jour pour valider que les changements
   fonctionnent comme prévu.
 * Le fichier `NEWS` doit être mis à jour.
