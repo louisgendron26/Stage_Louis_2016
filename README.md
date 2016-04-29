@@ -25,6 +25,7 @@ Cette répertoire git va servir de cahier de laboratoire pour le stage de Louis
 * [ENCODE](http://www.nature.com/nature/journal/v489/n7414/abs/nature11247.html)
 * [Roadmap](http://www.nature.com/nbt/journal/v28/n10/abs/nbt1010-1045.html)
 * [L'API REST d'ENCODE](https://www.encodeproject.org/help/rest-api/)
+* [Le schéma des tables d'ENCODE](https://github.com/ENCODE-DCC/encoded/tree/master/src/encoded/schemas)
 
 ### Le langage R
 
