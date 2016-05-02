@@ -4,4 +4,7 @@ Semaine du 2 mai
 * Fonction Search_encode
 * Exploration de R et installation des packages
 
-
+Notes du 2 Mai 2016 :
+Utilisation de searchEncode pour https://www.encodeproject.org/search/?searchTerm=MTA1&format=json&limit=10
+La fonction clearTable elimine 3 colones (lot_reviews, @type et targets)
+Certaines informations dans les list de lot_reviews pourraient etre utiles pour completer des informations manquantes.
