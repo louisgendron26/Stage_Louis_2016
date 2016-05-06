@@ -10,18 +10,16 @@ La fonction clearTable elimine 3 colones (lot_reviews, @type et targets)
 Certaines informations dans les list de lot_reviews pourraient etre utiles pour completer des informations manquantes.
 
 
-/-------------------------------Rapport du fin de la semaine ----------------------------------/
+/-------------------------------Rapport pour fin de la semaine (2-6 mai) ----------------------------------/
 
 En date du 6 mai 2016:
 
 -Les buts de la semaine ont été complété; la version actuelle de rest_api.R permet d'extraire largement plus d'information
-(i.e. prise en charge des lites de data.frame à nombre de rangé variable).
+(i.e. prise en charge des listes de data.frame à nombre de rangée variable).
 -Quelques warnings sont soulevés par l'appel de clean_table, ces problèmes devront être régler durant la prochaine semaine.
 -La table otenue clean_table présente les données de façon clair et bien subdivisé.
 
-
-
-Objectif de la semaine prochaine :
+Objectif de la semaine prochaine (9-13 mai):
 -Finaliser rest_api.R (gérer les warnings)
 -Documentation/commentaires pour rest_api.R
 -Dévellopement des tests unitaires pour la fonction clean_column()
