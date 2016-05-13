@@ -17,7 +17,7 @@ En date du 6 mai 2016:
 -Les buts de la semaine ont été complété; la version actuelle de rest_api.R permet d'extraire largement plus d'information
 (i.e. prise en charge des listes de data.frame à nombre de rangée variable).
 -Quelques warnings sont soulevés par l'appel de clean_table, ces problèmes devront être régler durant la prochaine semaine.
--La table otenue clean_table présente les données de façon clair et bien subdivisé.
+-La table obtenue clean_table présente les données de façon clair et bien subdivisé.
 
 Objectif de la semaine prochaine (9-13 mai):
 -Finaliser rest_api.R (gérer les warnings)
@@ -25,3 +25,23 @@ Objectif de la semaine prochaine (9-13 mai):
 -Dévellopement des tests unitaires pour la fonction clean_column()
 -Close Issue#1
 -Analyser et comprendre le script pour prepare_ENCODEdb (issue2 2)
+
+/-------------------------------Rapport pour la fin de la semaine (9-13 mai)-------------------------------/
+En date du 13 mai 2016 :
+- Les buts de la semaine ont été réalisés.
+- J'ai grandement avancé le cours R programming sur Coursera, la semaine 1 est complété et le programming assignment
+  de la semaine 2 aussi.
+- J'ai débuté (ce vendredi) à m'assurer que la totalité de l'information est extraite lors de requete extract_table(type)
+  33 des 73 tables ont été vérifié. https://github.com/CharlesJB/Stage_Louis_2016/issues/2
+  
+  Objectif de la semaine prochaine :
+  - A FAIRE LUNDI MATIN : https://www.encodeproject.org/search/?searchTerm=MCF7&format=json&limit=4
+    gerer le bug pour colone de type data.frame
+  - Completer week #3 du cours en ligne R Programming
+  - Completer l'analyse des 73 tables
+  - Adapter la fonction prepare_ENCODEdb pour former des data.tables au lieu du format SQLlite
+  - Débuter la fonction qui permettera de merge toutes les tables
+  
+  
+  
+
