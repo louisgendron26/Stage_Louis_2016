@@ -43,5 +43,21 @@ En date du 13 mai 2016 :
   - Débuter la fonction qui permettera de merge toutes les tables
   
   
+/-------------------------------Rapport de la fin de la semaine (16-20 mai) --------------------------------/
+En date du 20 mai 2016 :
+- Les buts de la semaine ont été réalisés (sauf coursera week#3)
+- J'ai completé les modifications de prepare_ENCODEdb
+- J'ai optimisé export_ENCODEdb_matrix en utilisant les data.tables, le temps pour généré encode_df est passé de 45 minutes
+  à 3 secondes !
   
+Objectif de la semaine prochaine :
+- Trouver une maniere d'acceder aux infos de Tables$treatment, c'est la seule étape qui ne fonctionne pas encore,
+  derniere partie de step4 du script prepare_data.R
+- Determiner avec Charles s'il y a dèautres colones à ajouter/éliminer/retravailler
+- Débuter l'implementation de la fonction qui combinera toutes les tables 
+- Completer coursera week #3
+
+
+
+
 
