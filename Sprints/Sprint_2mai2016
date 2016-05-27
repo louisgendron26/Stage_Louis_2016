@@ -57,7 +57,17 @@ Objectif de la semaine prochaine :
 - Débuter l'implementation de la fonction qui combinera toutes les tables 
 - Completer coursera week #3
 
+/-------------------------------Rapport de la fin de la semaine (23-27 mai) --------------------------------/
+En date du 27 mai 2016:
+- Les buts de la semaine ont été complété.
+- Les deux tables de encode_df ont été combinés.
+- Debut de l'implementation de createDesign.
+- Debut de l'implementation de fuzzySearch.
 
-
+Objectif de la semaine prochaine :
+- Completer coursera week #4
+- Optimiser createDesign
+- Générer les unitTests pour createDesign
+- Améliorer fuzzySearch (gerer les espaces et peut etre certaines expression réguliêre)
 
 
