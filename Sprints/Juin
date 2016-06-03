@@ -1,0 +1,14 @@
+///----------------------------------- Rapport de 30 main au 3 juin ------------------------------///
+Ce qui a été fait cette semaine :
+- Completer le cours R programming de coursera
+- Plan de stage
+- Amelioration du l'algorithme de fuzzySearch (meilleur filtre)
+- downloadEncode a été travaillé pour la nouvelle version de encode_df, il reste toute fois beaucoup de probleme a réglé
+- Je n'ai fait qu'un croquis de l'interface graphique
+- J'ai commencé a retravailler les unitTests
+
+Objectif de la semaine prochaine :
+- Il n'es actuellement pas possible de faire un merge avec la branche centrale du aux modifications de queryEncode qui travail
+  actuellement avec la nouvelle version de encode_df. Le package de passe pas le check dû à des reliques de l'ancienne version de encode_df
+  Je dois donc revisiter les unitTests et leur object pour les mettres à jours.
+- Débuter mon apprentissage de shiny / débuter la creation de l'interface graphique.
