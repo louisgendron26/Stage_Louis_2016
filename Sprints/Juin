@@ -1,4 +1,4 @@
-///----------------------------------- Rapport de 30 main au 3 juin ------------------------------///
+///----------------------------------- Rapport de 30 mai au 3 juin ------------------------------///
 Ce qui a été fait cette semaine :
 - Completer le cours R programming de coursera
 - Plan de stage
@@ -12,3 +12,17 @@ Objectif de la semaine prochaine :
   actuellement avec la nouvelle version de encode_df. Le package de passe pas le check dû à des reliques de l'ancienne version de encode_df
   Je dois donc revisiter les unitTests et leur object pour les mettres à jours.
 - Débuter mon apprentissage de shiny / débuter la creation de l'interface graphique.
+
+
+/// --------------------------------- Rapport du 5 juin au 10 juin --------------------------- ///
+Ce qui a été fait cette semaine :
+- Les bugs empechant le le build et le check du package ont été réglé. Ma version de ENCODExplorer a été merge avec la branche principale.
+- L'interface shiny prend forme ! Ce qui a été fait :
+- fonction fuzzySearch, queryEncode, createDesign. 
+- Implementation de create design avec le resultat d'un fuzzySearch
+
+Objectif de la semaine prochaine :
+- Améliorer le visuel de l'interface ( couleur, display des boutons et tables).
+- Implementation de create design avec le resultat d'un queryEncode.
+- Implementation de download.
+- Si j'ai du temps à tuer, documentation de fuzzySearch et update de la vignette
