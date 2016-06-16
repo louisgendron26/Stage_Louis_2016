@@ -26,3 +26,9 @@ Objectif de la semaine prochaine :
 - Implementation de create design avec le resultat d'un queryEncode.
 - Implementation de download.
 - Si j'ai du temps à tuer, documentation de fuzzySearch et update de la vignette
+
+///-------------------------------- Rapport du 13 au 17 juin ---------------------------------- ///
+
+Objectif de la semaine prochaine :
+Ajouter une colone filesize dans les design long
+Trouver une maniere pour faire un lien clickable vers encode pour un fichier
