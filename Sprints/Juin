@@ -28,7 +28,14 @@ Objectif de la semaine prochaine :
 - Si j'ai du temps à tuer, documentation de fuzzySearch et update de la vignette
 
 ///-------------------------------- Rapport du 13 au 17 juin ---------------------------------- ///
+Ce qui a été fait cette semaine :
+-Create design fonctionne pour fuzzy et query
+-Documentation et légere modification de fuzzySearch
+-Nouvelle version plus optimisé de createDesign par Charles.
+-Checkbox ajouter dans les data.tables (object mort pour l'instant)
 
 Objectif de la semaine prochaine :
-Ajouter une colone filesize dans les design long
-Trouver une maniere pour faire un lien clickable vers encode pour un fichier
+-Ajouter une colone filesize dans les design long
+-Trouver une maniere pour faire un lien clickable vers encode pour un fichier
+-Corriger les messages d'erreur en choisisant les options split + wides pour un design (voir l'issue).
+-Ajouter la fonction download dans shiny
