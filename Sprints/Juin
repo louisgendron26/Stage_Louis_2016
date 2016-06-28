@@ -46,3 +46,4 @@ Mercredi 22 juin
 To do list: - Mettre les dernieres colones du data table en premiere position
             - Centrer le contenu des nombres par rapport a leur colonne.
             
+Probleme avec les colones antibody_caption et antibody_charaterization lorsqu'il y a plusieurs ID de antibody
