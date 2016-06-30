@@ -41,9 +41,20 @@ Objectif de la semaine prochaine :
 -Ajouter la fonction download dans shiny
 -Rendre les checkbox reactif, piste de solution http://stackoverflow.com/questions/19042192/checkbox-on-table-or-dataframe
 
-///---------------------------------- Rapport 19 au 24 juin -----------------------------------///
-Mercredi 22 juin
-To do list: - Mettre les dernieres colones du data table en premiere position
-            - Centrer le contenu des nombres par rapport a leur colonne.
-            
-Probleme avec les colones antibody_caption et antibody_charaterization lorsqu'il y a plusieurs ID de antibody
+///---------------------------------- Rapport 19 au 30 juin -----------------------------------///
+Ce qui a été fait les deux dernieres semaines :
+-downloadEncode n'utilise plus le package downloader, on fait simplement appel a download.file
+-Ajout d'un filtre pour downloadEncode
+-Ajout de colonne et reorganisation de l'ordre des colonnes pour encode_df
+-Remplacement de grepl par stri_detect dans fuzzySearch pour optimiser le temps de recherche.
+-Travail sur le layout des tables sur shiny (scrollBar, fixedHeader, centrer les données, etc)
+-DownloadEncode a été ajouté au shinyApp
+-Ajout d'une boite affichant les messages renvoyés un download
+-Ajout d'un champ affichant le nombre de fichiers selectionnés et la taille total des fichiers
+
+Pour la semaine prochaine :
+-Probleme avec les colones antibody_caption et antibody_charaterization lorsqu'il y a plusieurs ID de antibody
+-Trouver une maniere de faire une recherche dans une table avec l'API-Rest
+-Pop-up JS pour une download afin que l'utilisateur choisise le folder pour le telechargement
+-Faire le champs des infos de selection pour un splitDesign
+-Ajout les infos de selection pour queryEncode
