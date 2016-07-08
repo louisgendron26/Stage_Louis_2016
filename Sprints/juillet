@@ -1,0 +1,15 @@
+////-------------------------------------- 4 au 8 juillet --------------------------------------//// 
+Ce qui a été fait cette semaine :
+  -Ajout des champs de selection pour queryEncode
+  -La fonction downloadEncode a été completement refait. On passe maintenant en argument les accessions 
+    des fichiers ou experience à télécharger. Si une accession passé en argument n'est pas disponible
+    dans encode_df. Le href du fichier/experience sera récupéré directement sur la database d'ENCODE.
+  -Test unitaire de createDesign, fuzzySearch ont été refait
+  -Regler plusieurs problèmes d'importation de library qui causait des problèmes dans le R CMD check du package
+  
+Objectif de la semaine prochaine :
+  -Finir d'updater les vignettes/documentations
+  -Le protocol de downloadEncode pour les accessions non disponible recupere les files et les datasets
+    de type experiment. Rendre possible de download pour les autres datasets.
+  -Raffiner le look de shiny.
+  -Cleaner les scripts server.R et ui.R de shiny
