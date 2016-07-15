@@ -13,3 +13,17 @@ Objectif de la semaine prochaine :
     de type experiment. Rendre possible de download pour les autres datasets.
   -Raffiner le look de shiny.
   -Cleaner les scripts server.R et ui.R de shiny
+
+////-------------------------------------- 11 au 15 juillet --------------------------------------//// 
+Ce qui a été fait cette semaine :
+  -Plusieurs corrections de bug pour createDesign, downloadEncode et shinyEncode.
+  -Correction des tests unitaires
+  -Modificaiton pour la doc/vignettes
+  
+Objectif de la semaine prochaine :
+  -Derniere semaine du projet
+  -Modifier create design pour changer l'info de file pour avoir seulement l'accession du file et non le href
+  a faire avec base_name
+  -Finir la doc/vignette
+
+
